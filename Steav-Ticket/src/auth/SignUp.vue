@@ -246,6 +246,7 @@ input::placeholder {
   color: #9ca3af;
   cursor: pointer;
   user-select: none;
+  margin-top: 15px;
 }
 
 .toggle:hover {
